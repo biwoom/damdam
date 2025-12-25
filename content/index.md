@@ -1,6 +1,6 @@
 ---
 seo:
-  title: 불교 경전 번역 및 연구노트 지식베이스
+  title: 담담(damdam):불교 경전연구 지식베이스
   description: Ship fast, flexible, and SEO-optimized documentation with beautiful
     design out of the box. Docus brings together the best of the Nuxt ecosystem.
     Powered by Nuxt UI.
@@ -20,10 +20,20 @@ Docus brings the best of the Nuxt ecosystem into one CLI.
   ---
   color: neutral
   size: xl
-  to: /getting-started/installation
+  to: sutra/t0001/t0001_001
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  장아함경
+  :::
+
+  :::u-button
+  ---
+  color: neutral
+  size: xl
+  to: shastra/t1509/t1509_001
+  trailing-icon: i-lucide-arrow-right
+  ---
+  대지도론
   :::
 
   :::u-button
